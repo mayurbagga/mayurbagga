@@ -1,10 +1,10 @@
 Hi 👋 My name is Mayur
 ======================
 
-Frontend Developer
-------------------
+Full Stack Developer
+--------------------
 
-A frontend developer/ Ui-Ux Designer from Gujarat, India Interested in project-based work/long term collaboration
+A Full Stack Developer from Gujarat, India Interested in project-based work/long term collaboration
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [mayurbagga@hotmail.com](mailto:mayurbagga@hotmail.com)
@@ -59,6 +59,6 @@ A frontend developer/ Ui-Ux Designer from Gujarat, India Interested in project-b
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mayurbagga"><img src="https://github-readme-stats.vercel.app/api?username=mayurbagga&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mayurbagga's GitHub stats" /></a>
+<a href="http://www.github.com/mayurbagga"><img src="https://github-readme-stats.vercel.app/api?username=mayurbagga&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="mayurbagga's GitHub stats" /></a>
 
-<a href="https://github.com/mayurbagga" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurbagga&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/mayurbagga" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurbagga&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
