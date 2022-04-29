@@ -1,7 +1,7 @@
 Hi 👋 My name is Mayur
 ======================
 
-Full Stack Developer
+Frontend Developer
 --------------------
 
 A Full Stack Developer from Gujarat, India Interested in project-based work/long term collaboration
