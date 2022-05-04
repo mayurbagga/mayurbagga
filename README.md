@@ -1,7 +1,7 @@
 Hi 👋 My name is Mayur
 ======================
 
-Frontend Developer
+Web Developer | ReactJS | UI/UX Designer | Graphic Designing | JavaScript | NodeJs
 --------------------
 
 A Full Stack Developer from Gujarat, India Interested in project-based work/long term collaboration
