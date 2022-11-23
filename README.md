@@ -1,7 +1,7 @@
 Hi 👋 My name is Mayur
 ======================
 
-Web Developer | ReactJS  | NodeJs | UI/UX Designer
+Blockchain | Web Developer | ReactJS | UI/UX Designer
 --------------------
 
 A Full Stack Developer from Gujarat, India Interested in project-based work/long term collaboration
