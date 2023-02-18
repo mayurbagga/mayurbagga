@@ -1,14 +1,14 @@
 Hi 👋 My name is Mayur
 ======================
 
-Blockchain | Web Developer | ReactJS | UI/UX Designer
+Blockchain Developer 
 --------------------
 
 A Full Stack Developer from Gujarat, India Interested in project-based work/long term collaboration
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [mayurbagga@hotmail.com](mailto:mayurbagga@hotmail.com)
-* 🧠  I'm learning Web 3
+* 🧠  ability to learn new technologies quickly
 * ⚡  I'm secretly Spiderman.. but dont tell anyone
 
 ### Skills
