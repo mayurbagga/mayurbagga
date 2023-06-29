@@ -4,7 +4,7 @@ Hi 👋 My name is Mayur
 Blockchain Developer 
 --------------------
 
-A Full Stack Developer from Gujarat, India Interested in project-based work/long term collaboration
+A Blockchain Developer from Gujarat, India Interested in project-based work/long term collaboration
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [mayurbagga@hotmail.com](mailto:mayurbagga@hotmail.com)
